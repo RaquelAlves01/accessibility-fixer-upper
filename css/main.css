@@ -19,6 +19,10 @@ a:hover {
   color: #113c00;
 }
 
+a:focus {
+  outline: 2px solid #113c00;
+}
+
 .masthead {
   background-color: #568c36;
 
